@@ -4,7 +4,13 @@ A program which allows two users to play Five in a Row on the PC desktop. This g
 
 A PDF document shows the features, mannul and report of this project.
 
-A zip files shows the code.
+A zip file shows the classes.
+
+A zip file shows the background img.
+
+The music files can not be uploaded because it is beyond the limit.
+
+
 
 If use the codes, please reference them.
 
