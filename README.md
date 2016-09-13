@@ -4,6 +4,8 @@ A program which allows two users to play Five in a Row on the PC desktop. This g
 
 A PDF document shows the features, mannul and report of this project.
 
+A zip files shows the code.
+
 If use the codes, please reference them.
 
 Cheers,
